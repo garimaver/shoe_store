@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/garimaver/shoe_store/static/css/main.1bce9d42.css",
+    "main.js": "/garimaver/shoe_store/static/js/main.b10384b5.js",
+    "static/js/453.9009cce1.chunk.js": "/garimaver/shoe_store/static/js/453.9009cce1.chunk.js",
+    "static/media/reebok_classic_leather.jpg": "/garimaver/shoe_store/static/media/reebok_classic_leather.6cfd0695c722207067f1.jpg",
+    "static/media/new_balance_574.jpg": "/garimaver/shoe_store/static/media/new_balance_574.0eebea5b07d29cbfd7f5.jpg",
+    "static/media/converse_chuck_taylor.jpg": "/garimaver/shoe_store/static/media/converse_chuck_taylor.9ab598f4c7fd4a13c262.jpg",
+    "static/media/asics_gel_kayano_27.jpg": "/garimaver/shoe_store/static/media/asics_gel_kayano_27.6033e4501c5af2767d28.jpg",
+    "static/media/puma_suede_classic.jpg": "/garimaver/shoe_store/static/media/puma_suede_classic.e62b068c2c9432b46c1f.jpg",
+    "static/media/fila_disruptor_ii.jpg": "/garimaver/shoe_store/static/media/fila_disruptor_ii.2f70feadeb55ef82f046.jpg",
+    "static/media/vans_old_skool.jpg": "/garimaver/shoe_store/static/media/vans_old_skool.61865301754bd89f8500.jpg",
+    "static/media/under_armour_hovr_phantom.jpg": "/garimaver/shoe_store/static/media/under_armour_hovr_phantom.01694d24a3f0ed5e86de.jpg",
+    "static/media/adidas_ultraboost.jpg": "/garimaver/shoe_store/static/media/adidas_ultraboost.4307284435a61a44702f.jpg",
+    "index.html": "/garimaver/shoe_store/index.html",
+    "main.1bce9d42.css.map": "/garimaver/shoe_store/static/css/main.1bce9d42.css.map",
+    "main.b10384b5.js.map": "/garimaver/shoe_store/static/js/main.b10384b5.js.map",
+    "453.9009cce1.chunk.js.map": "/garimaver/shoe_store/static/js/453.9009cce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bce9d42.css",
+    "static/js/main.b10384b5.js"
+  ]
+}
